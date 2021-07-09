@@ -30,6 +30,8 @@ table.newcode{
     border: 0px;
     border-spacing: 0px;
 }
+
+
 td.newcode{
     background-color: #282A36;
     color: white;
@@ -53,7 +55,6 @@ span.orange{
 }
 span.number{
     color: #FF79C6;
-    font-size: 18px;
 }
 .example{
     -webkit-touch-callout: none;
